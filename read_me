@@ -1,0 +1,23 @@
+#Practical 2
+
+This branch contains files for practical 2. There are 3 scripts to be run for the various parts of practical 2.
+
+#Compiling the code
+
+To compile the code, do the following:
+
+gcc -o printing printing.c
+
+gcc -o conversion conversion.c
+
+gcc -o sum sum.c
+
+#Executing the code
+
+To execute the code, do the following:
+
+./printing
+
+./conversion
+
+./sum
